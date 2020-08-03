@@ -1,0 +1,7 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature", "properties": { "labelrank": 100, "name": "Trump", "pop_max": 1031075, "geonameid": 1668375.0 }, "geometry": { "type": "Point", "coordinates": [ -80, 40 ] } },
+        { "type": "Feature", "properties": { "labelrank": 100, "name": "Xi", "pop_max": 1031076, "geonameid": 1668376.0 }, "geometry": { "type": "Point", "coordinates": [ 110, 40 ] } }
+    ]
+}

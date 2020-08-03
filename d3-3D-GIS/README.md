@@ -1,0 +1,2 @@
+# fullDataVisulizationAboutWorld
+基于D3.js的信息数据可视化项目

@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "英国石油", "pop_max": 1031008, "geonameid": 1668349.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 30 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "汇丰银行控股", "pop_max": 1031009, "geonameid": 1668350.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 32 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "英国法通保险", "pop_max": 1031012, "geonameid": 1668353.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 34 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "力拓", "pop_max": 1031013, "geonameid": 1668354.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 36 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "巴克莱", "pop_max": 1031014, "geonameid": 1668355.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 38 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "劳埃德银行", "pop_max": 1031016, "geonameid": 1668357.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 40 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "英美资源集团", "pop_max": 1031021, "geonameid": 1668362.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 42 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "Greenergy Fuels Holdings", "pop_max": 1031022, "geonameid": 1668363.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 44 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "BAE系统", "pop_max": 1031024, "geonameid": 1668365.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 46 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "渣打银行", "pop_max": 1031025, "geonameid": 1668366.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 48 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "罗尔斯·罗伊斯", "pop_max": 1031026, "geonameid": 1668367.0 }, "geometry": { "type": "Point", "coordinates": [ -20, 50 ] } },
+
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "摩根大通", "pop_max": 1031027, "geonameid": 1668368.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 30 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "花旗集团", "pop_max": 1031029, "geonameid": 1668370.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 32 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "辉瑞制药", "pop_max": 1031032, "geonameid": 1668373.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 34 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "高盛", "pop_max": 1031033, "geonameid": 1668374.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 36 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "摩根士丹利", "pop_max": 1031034, "geonameid": 1668375.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 38 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "美国国际集团", "pop_max": 1031035, "geonameid": 1668376.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 40 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "美国运通", "pop_max": 1031037, "geonameid": 1668378.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 42 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "美国教师退休基金会", "pop_max": 1031038, "geonameid": 1668379.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 44 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "国际资产控股", "pop_max": 1031041, "geonameid": 1668382.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 46 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "时代华纳", "pop_max": 1031042, "geonameid": 1668383.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 48 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "福克斯", "pop_max": 1031043, "geonameid": 1668384.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 50 ] } },
+   { "type": "Feature", "properties": { "labelrank": 10, "name": "赛尔基因（locate in 萨米特）", "pop_max": 1031044, "geonameid": 1668385.0 }, "geometry": { "type": "Point", "coordinates": [ -87.8103, 41.7881 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "美国阿美拉达赫斯", "pop_max": 1031045, "geonameid": 1668386.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 52 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "百时美施贵宝", "pop_max": 1031046, "geonameid": 1668387.0 }, "geometry": { "type": "Point", "coordinates": [ -130, 54 ] } },
+    
+
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "沙特基础工业", "pop_max": 1031047, "geonameid": 1668388.0 }, "geometry": { "type": "Point", "coordinates": [ 40, 25 ] } },
+
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "俄罗斯天然气工业股份", "pop_max": 1031056, "geonameid": 1668356.0 }, "geometry": { "type": "Point", "coordinates": [ 50, 56 ] } },
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "卢克石油", "pop_max": 1031057, "geonameid": 1668357.0 }, "geometry": { "type": "Point", "coordinates": [ 50, 54 ] } },
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "俄罗斯石油", "pop_max": 1031058, "geonameid": 1668358.0 }, "geometry": { "type": "Point", "coordinates": [ 50, 52 ] } },
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "俄罗斯秋明英国石油控股", "pop_max": 1031061, "geonameid": 1668361.0 }, "geometry": { "type": "Point", "coordinates": [ 50, 58 ] } },
+
+    { "type": "Feature", "properties": { "labelrank": 1, "name": "EXOR集团", "pop_max": 1031067, "geonameid": 1668367.0 }, "geometry": { "type": "Point", "coordinates": [ 5, 54 ] } }
+    ]
+}

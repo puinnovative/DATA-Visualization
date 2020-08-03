@@ -1,0 +1,11 @@
+{"type": "FeatureCollection","features": [
+    { "type": "Feature", "properties": { "labelrank": 1, "name": "Amsterdam", "pop_max": 1031000, "geonameid": 1668341.0 }, "geometry": { "type": "Point", "coordinates": [ 4.914694317400972, 52.351914546664432 ] } },
+    { "type": "Feature", "properties": { "labelrank": 2, "name": "Taipei", "pop_max": 1031001, "geonameid": 1668342.0 }, "geometry": { "type": "Point", "coordinates": [ 121.568333333333001, 25.035833333333301 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "Washington, D.C.", "pop_max": 1031002, "geonameid": 1668343.0 }, "geometry": { "type": "Point", "coordinates": [ -77.011364439437159, 38.901495235087054 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "New York", "pop_max": 1031003, "geonameid": 1668344.0 }, "geometry": { "type": "Point", "coordinates": [ -73.981962787406815, 40.75192492259464 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "London", "pop_max": 1031004, "geonameid": 1668345.0 }, "geometry": { "type": "Point", "coordinates": [ -0.118667702475932, 51.5019405883275 ] } },
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "Moscow", "pop_max": 1031005, "geonameid": 1668346.0 }, "geometry": { "type": "Point", "coordinates": [ 37.613576967271399, 55.754109981248178 ] } },
+    { "type": "Feature", "properties": { "labelrank": 7, "name": "Beijing", "pop_max": 1031006, "geonameid": 1668347.0 }, "geometry": { "type": "Point", "coordinates": [ 116.386339825659434, 39.930838089909059 ] } },
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "Riyadh", "pop_max": 1031007, "geonameid": 1668348.0 }, "geometry": { "type": "Point", "coordinates": [ 46.6753, 24.7136 ] } }
+  
+]}
