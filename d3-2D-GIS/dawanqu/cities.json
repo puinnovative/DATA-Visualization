@@ -1,0 +1,15 @@
+{"type": "FeatureCollection","features": [
+    { "type": "Feature", "properties": { "labelrank": 1, "name": "广州市", "pop_max": 1031000, "geonameid": 1668341.0 }, "geometry": { "type": "Point", "coordinates": [ 113.264360, 23.129080 ] } },
+    { "type": "Feature", "properties": { "labelrank": 2, "name": "深圳市", "pop_max": 1031001, "geonameid": 1668342.0 }, "geometry": { "type": "Point", "coordinates": [ 114.059560, 22.542860 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "珠海市", "pop_max": 1031002, "geonameid": 1668343.0 }, "geometry": { "type": "Point", "coordinates": [ 113.576680, 22.270730 ] } },
+    { "type": "Feature", "properties": { "labelrank": 10, "name": "佛山市", "pop_max": 1031003, "geonameid": 1668344.0 }, "geometry": { "type": "Point", "coordinates": [ 113.121920, 23.021850 ] } },
+    { "type": "Feature", "properties": { "labelrank": 9, "name": "肇庆市", "pop_max": 1031004, "geonameid": 1668345.0 }, "geometry": { "type": "Point", "coordinates": [ 112.465280, 23.046900 ] } },
+    { "type": "Feature", "properties": { "labelrank": 6, "name": "江门市", "pop_max": 1031005, "geonameid": 1668346.0 }, "geometry": { "type": "Point", "coordinates": [ 113.081610, 22.578650 ] } },
+    { "type": "Feature", "properties": { "labelrank": 7, "name": "惠州市", "pop_max": 1031006, "geonameid": 1668347.0 }, "geometry": { "type": "Point", "coordinates": [ 114.416790, 23.110750 ] } },
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "东莞市", "pop_max": 1031007, "geonameid": 1668348.0 }, "geometry": { "type": "Point", "coordinates": [ 113.751790, 23.020670 ] } },
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "中山市", "pop_max": 1031008, "geonameid": 1668349.0 }, "geometry": { "type": "Point", "coordinates": [ 113.392600, 22.515950 ] } },
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "澳门", "pop_max": 1031009, "geonameid": 1668350.0 }, "geometry": { "type": "Point", "coordinates": [ 113.33, 22.13 ] } },
+    { "type": "Feature", "properties": { "labelrank": 8, "name": "香港", "pop_max": 1031010, "geonameid": 1668351.0 }, "geometry": { "type": "Point", "coordinates": [ 114.08, 22.20 ] } }
+    
+  
+]}
