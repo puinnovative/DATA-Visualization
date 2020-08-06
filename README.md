@@ -31,7 +31,7 @@
 主要功能特性：
 GDP动态图
 
-![](./Imgs/global.png)<br>
+![](./Imgs/global.gif)<br>
 主要功能特性：
 全球重要信息展示图
 
